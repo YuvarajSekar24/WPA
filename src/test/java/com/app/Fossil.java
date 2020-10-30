@@ -41,7 +41,7 @@ public class Fossil {
 					listAmount1.add(x);		
 				}
 				
-				Collections.sort(listAmount1);
+			//	Collections.sort(listAmount1);
 				
 				
 				driver.manage().timeouts().implicitlyWait(500, TimeUnit.MILLISECONDS);
